@@ -10,7 +10,7 @@ p {
   margin-left: 10px;
 }
 
-content {
+#content {
   background-color: #c409dd;
   width: 500px;
   min-height: 300px;
