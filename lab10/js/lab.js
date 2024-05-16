@@ -1,10 +1,9 @@
 /*
-   lab.js - This simple JavaScript/jQuery script appends new elements to an output div
+   lab.js - This simple JavaScript/jQuery script generates random text and appends them to the site
 
-   Requirements: jQuery must be loaded for this script to work.
 
-   Author: Wes modes
-   Date: 2023
+   Author: Gabriel Jauregui
+   Date: 5/15/2024
 */
 
 function generateRandomText() {
